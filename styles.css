@@ -46,13 +46,14 @@ body {
    Navigation
    ============================================ */
 .navbar {
-  background: transparent !important;
+  background: var(--bg-cream) !important;
   border: none !important;
   box-shadow: none !important;
-  padding: 1.5rem 3rem;
-  position: absolute;
+  padding: 1.25rem 3rem;
+  position: relative;
   width: 100%;
   z-index: 100;
+  border-bottom: 1px solid var(--border-light);
 }
 
 .navbar-brand {
@@ -80,14 +81,13 @@ body {
    Hero Section
    ============================================ */
 .hero-section {
-  min-height: 100vh;
+  min-height: 80vh;
   background: var(--bg-dark);
   display: flex;
   align-items: center;
   justify-content: center;
   text-align: center;
-  padding: 6rem 2rem;
-  position: relative;
+  padding: 5rem 2rem;
 }
 
 .hero-content {
@@ -241,7 +241,7 @@ body {
    ============================================ */
 .hero-banner {
   background: var(--bg-dark);
-  padding: 8rem 2rem 5rem;
+  padding: 5rem 2rem;
   text-align: center;
 }
 
