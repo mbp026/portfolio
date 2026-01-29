@@ -1,17 +1,17 @@
 ---
-title: "About Me"
+title: "About"
 ---
 
-::: {.hero-banner .text-center}
+::: {.hero-banner}
 
-<img src="images/profile.png" alt="Mason Paul" class="rounded-circle mb-3" width="160">
+<img src="images/profile.png" alt="Mason Paul" class="rounded-circle mb-3">
 
-<h1>Mason Paul</h1>
+# Mason Paul
 
-<a href="https://linkedin.com/in/mason-paul06" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://www.linkedin.com/in/mason-paul06" class="btn" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
 </a>
-<a href="https://github.com/mbp026" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://github.com/mbp026" class="btn" target="_blank">
   <i class="fab fa-github"></i> GitHub
 </a>
 
@@ -23,14 +23,16 @@ I'm a Strategic Management student at BYU with a minor in Philosophy. My journey
 
 I'm fluent in Spanish after spending two years as a volunteer representative in Houston, Texas, where I learned to connect with people from diverse backgrounds and communicate complex ideas simply.
 
-### Education
+## Education
 
-- **Brigham Young University** — Marriott School of Business (Jul 2022 - Jul 2028)
+**Brigham Young University** — Marriott School of Business
+*Jul 2022 - Jul 2028*
+
 - **Major**: Pre-Business (prospectively Strategic Management)
 - **Minor**: Philosophy
 - **Relevant Coursework**: Economics, Finance, Accounting, Information Systems, Strategic Management (emphasis on product creation using AI)
 
-### Experience
+## Experience
 
 #### Intern — Trackara
 *Sep 2025 - Dec 2025 | Provo, Utah*
@@ -71,27 +73,22 @@ I'm fluent in Spanish after spending two years as a volunteer representative in 
 - Constructed and maintained miles of livestock fencing and corrals
 - Gained practical skills in construction, equipment operation, and independent problem-solving
 
-### Skills & Interests
+## Skills
 
 **Languages**
-
-- Fluent in Spanish
+Fluent in Spanish
 
 **Sales & Communication**
-
-- Consultative selling, customer service, conflict resolution, public speaking
+Consultative selling, customer service, conflict resolution, public speaking
 
 **Technical**
+AI models (Claude, ChatGPT, Gemini), Microsoft Office Suite, VS Code, Google Workspace, CRM tools
 
-- AI models (Claude, ChatGPT, Gemini)
-- Microsoft Office Suite, VS Code, Google Workspace
-- CRM tools
-
-**Interests**
+## Interests
 
 Mountain biking, snowboarding, backpacking, reading, soccer, spikeball, guitar, and pickleball
 
-### What's Next
+## What's Next
 
 I'm pursuing opportunities in consulting, particularly in win-loss analysis and strategic advisory. My long-term goal is to join or start a venture-backed company where I can combine my strategic thinking with my passion for building products that solve real problems.
 

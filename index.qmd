@@ -1,39 +1,49 @@
 ---
-title: "Mason Paul | Strategy & Product"
+title: ""
+page-layout: full
 ---
 
-::: {.hero-banner .text-center}
+::: {.hero-section}
+::: {.hero-content}
 
-<img src="images/profile.png" alt="Mason Paul" class="rounded-circle mb-3" width="160">
+![](images/profile.png){.profile-image}
 
-<h1>Mason Paul</h1>
+# Mason Paul
 
-<p class="lead">Strategic Management Student | Aspiring Consultant & Entrepreneur</p>
+### Strategic Management Student | Aspiring Consultant & Entrepreneur
 
-<a href="https://linkedin.com/in/mason-paul06" class="btn btn-outline-primary btn-sm" target="_blank">
-  <i class="fab fa-linkedin"></i> LinkedIn
-</a>
-<a href="https://github.com/mbp026" class="btn btn-outline-primary btn-sm" target="_blank">
-  <i class="fab fa-github"></i> GitHub
-</a>
-
+::: {.social-links}
+[<i class="fab fa-linkedin"></i> LinkedIn](https://www.linkedin.com/in/mason-paul06){.social-btn target="_blank"}
+[<i class="fab fa-github"></i> GitHub](https://github.com/mbp026){.social-btn target="_blank"}
 :::
 
+:::
+:::
+
+::: {.section}
 ## About Me
 
 I'm a Strategic Management student at BYU's Marriott School of Business with a passion for solving real problems through technology and strategy. My experience spans sales leadership, startup consulting, and building AI-powered applications.
 
 I'm currently exploring opportunities in consulting with the goal of eventually joining or starting a venture-backed company.
-
-## Featured Projects
-
-::: {.g-col-12 .g-col-md-6 .card}
-
-### [Econ Textbook Reader](projects/project-1.qmd)
-An AI-powered application that helps students read and understand economics textbooks more effectively.
-
 :::
 
+::: {.section .projects-section}
+## Featured Projects
+
+::: {.project-grid}
+::: {.project-card}
+### Econ Textbook Reader
+
+An AI-powered application that helps students read and understand economics textbooks more effectively.
+
+[View Project <i class="fas fa-arrow-right"></i>](projects/project-1.qmd){.project-link}
+:::
+:::
+:::
+
+::: {.section}
 ## What I'm Working On
 
-Check out my [Problems I'm Exploring](problems.qmd) page to see the challenges I'm thinking about and potential solutions I'm developing.
+I'm constantly thinking about problems worth solving. Check out my [Problems I'm Exploring](problems.qmd) page to see the challenges I'm investigating and the solutions I'm developing.
+:::
