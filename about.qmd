@@ -4,14 +4,14 @@ title: "About Me"
 
 ::: {.hero-banner .text-center}
 
-<img src="images/profile.jpg" alt="add photo to /images" class="rounded-circle mb-3" width="160">
+<img src="images/profile.png" alt="Mason Paul" class="rounded-circle mb-3" width="160">
 
-<h1>Your Name</h1>
+<h1>Mason Paul</h1>
 
-<a href="https://linkedin.com/in/your-profile" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://linkedin.com/in/mason-paul06" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
 </a>
-<a href="https://github.com/your-username" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://github.com/mbp026" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-github"></i> GitHub
 </a>
 
@@ -19,45 +19,80 @@ title: "About Me"
 
 ## Background
 
-Write a compelling narrative about your background, education, and what drives your passion for product management. This is your chance to tell your story and connect with potential employers or collaborators.
+I'm a Strategic Management student at BYU with a minor in Philosophy. My journey has taken me from building fences on a Utah ranch to leading intern teams at tech startups. Along the way, I've developed a passion for solving problems at the intersection of strategy, technology, and human behavior.
+
+I'm fluent in Spanish after spending two years as a volunteer representative in Houston, Texas, where I learned to connect with people from diverse backgrounds and communicate complex ideas simply.
 
 ### Education
 
-- **Degree Name**, University Name (Year)
-- **Relevant Coursework**: List key courses related to product management, analytics, or business
-- **Academic Achievements**: Honor societies, relevant projects, or awards
+- **Brigham Young University** — Marriott School of Business (Jul 2022 - Jul 2028)
+- **Major**: Pre-Business (prospectively Strategic Management)
+- **Minor**: Philosophy
+- **Relevant Coursework**: Economics, Finance, Accounting, Information Systems, Strategic Management (emphasis on product creation using AI)
 
 ### Experience
 
-#### Job/Internship Title - Company Name
-*Dates*
+#### Intern — Trackara
+*Sep 2025 - Dec 2025 | Provo, Utah*
 
-- Key accomplishment or responsibility
-- Another achievement with quantifiable results
-- Skills or technologies used
+- Selected to lead a team of 4 interns with a focus on improving company strategy
+- Modernized the company's social media presence on LinkedIn, Facebook, and YouTube
+- Tripled total client base through targeted outreach and lead research/creation
+- Strengthened company's strategic advantage by conducting in-depth competitor analysis and market positioning
 
-#### Another Position - Company Name
-*Dates*
+#### Fiber-Optic Internet Sales Representative — Lumina Sun Smart Home
+*Jul 2025 - Sep 2025 | Charlotte, NC*
 
-- What you contributed to the organization
-- Projects you worked on
-- Impact you made
+- Ranked as team's top sales representative, performing 60% higher than company average
+- Delivered tailored product pitches and handled objections in a fast-paced environment
+- Collaborated with onboarding and tech support teams to ensure smooth customer installations
+
+#### Volunteer Representative — Church of Jesus Christ of Latter-Day Saints
+*Jun 2023 - May 2025 | Houston, Texas*
+
+- Led and organized mission-wide trainings under direction of mission leadership
+- Developed strong interpersonal and public communication skills
+- Gained fluency in Spanish through immersive daily use and formal instruction
+
+#### Baker — Crumbl Cookies
+*Jul 2021 - Nov 2021 | St. Louis, MO*
+
+- Collaborated in a high-volume production environment to preserve quality control and ensure timely order fulfillment
+
+#### Soccer Field Marshal — St. Louis Scott Gallagher FC
+*Apr 2021 - Jul 2021 | St. Louis, MO*
+
+- Managed field operations during competitive youth soccer events
+- Addressed conflicts and ensured adherence to club and league policies
+
+#### Ranch Hand — Bunker Engineering
+*Jun 2020 - Aug 2020 | Monticello, Utah*
+
+- Constructed and maintained miles of livestock fencing and corrals
+- Gained practical skills in construction, equipment operation, and independent problem-solving
 
 ### Skills & Interests
 
-**Technical Skills**
-- Programming languages (Python, R, SQL)
-- Analytics tools (Tableau, Power BI, Google Analytics)
-- Product management tools (Jira, Confluence, Figma)
+**Languages**
 
-**Soft Skills**
-- Communication and presentation
-- Cross-functional collaboration
-- Strategic thinking and problem-solving
+- Fluent in Spanish
+
+**Sales & Communication**
+
+- Consultative selling, customer service, conflict resolution, public speaking
+
+**Technical**
+
+- AI models (Claude, ChatGPT, Gemini)
+- Microsoft Office Suite, VS Code, Google Workspace
+- CRM tools
 
 **Interests**
-Share what you're passionate about outside of work - this helps humanize your professional brand and can be great conversation starters.
+
+Mountain biking, snowboarding, backpacking, reading, soccer, spikeball, guitar, and pickleball
 
 ### What's Next
 
-Describe your career goals and what type of opportunities you're seeking. This helps visitors understand how they might work with you or whether you'd be a good fit for their organization.
+I'm pursuing opportunities in consulting, particularly in win-loss analysis and strategic advisory. My long-term goal is to join or start a venture-backed company where I can combine my strategic thinking with my passion for building products that solve real problems.
+
+I'm especially interested in roles where I can work at the intersection of strategy and technology, helping companies understand their competitive landscape and make better decisions.

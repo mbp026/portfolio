@@ -1,28 +1,39 @@
 ---
-title: "Welcome to My Product Management Portfolio"
+title: "Mason Paul | Strategy & Product"
 ---
 
 ::: {.hero-banner .text-center}
 
-<img src="images/profile.jpg" alt="add photo to /images" class="rounded-circle mb-3" width="160">
+<img src="images/profile.png" alt="Mason Paul" class="rounded-circle mb-3" width="160">
 
-<h1>Your Name</h1>
+<h1>Mason Paul</h1>
 
-<a href="https://linkedin.com/in/your-profile" class="btn btn-outline-primary btn-sm" target="_blank">
+<p class="lead">Strategic Management Student | Aspiring Consultant & Entrepreneur</p>
+
+<a href="https://linkedin.com/in/mason-paul06" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
 </a>
-<a href="https://github.com/your-username" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://github.com/mbp026" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-github"></i> GitHub
 </a>
 
 :::
 
+## About Me
+
+I'm a Strategic Management student at BYU's Marriott School of Business with a passion for solving real problems through technology and strategy. My experience spans sales leadership, startup consulting, and building AI-powered applications.
+
+I'm currently exploring opportunities in consulting with the goal of eventually joining or starting a venture-backed company.
+
 ## Featured Projects
 
 ::: {.g-col-12 .g-col-md-6 .card}
 
-### [Name of my first app](projects/project-1.qmd)
-A one sentence description of my first application which is deployed to vercel. 
+### [Econ Textbook Reader](projects/project-1.qmd)
+An AI-powered application that helps students read and understand economics textbooks more effectively.
 
 :::
 
+## What I'm Working On
+
+Check out my [Problems I'm Exploring](problems.qmd) page to see the challenges I'm thinking about and potential solutions I'm developing.
