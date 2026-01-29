@@ -2,78 +2,62 @@
 title: "Problems I'm Exploring"
 ---
 
-These are real problems I experience in my daily life that I believe are worth solving. Each represents an opportunity to create something meaningful that could help others facing the same challenges.
+Real problems I experience that are worth solving.
 
 ---
 
 ## 1. Finding the Right Guitar Tabs
 
-**The Problem**
-Learning guitar is a journey of constant discovery, but finding tabs that match both my skill level and musical taste is frustrating. Most tab websites offer one-size-fits-all arrangements that are either too simple or impossibly complex. For lesser-known songs, tabs often don't exist at all.
+Learning guitar means finding tabs that match my skill level and taste. Most tabs are either too simple or too complex. For lesser-known songs, they often don't exist.
 
-**Why This Matters to Me**
-I play guitar regularly and want to expand my repertoire beyond the mainstream hits that everyone learns. When I hear a song I love, I want to be able to play it—but the gap between "this song exists" and "I can learn this song" is often too wide.
+**Why it matters** — I want to expand beyond mainstream hits. The gap between "this song exists" and "I can learn it" is too wide.
 
-**A Solution Worth Building**
-An AI-powered app that can listen to any song and generate a guitar tab calibrated to the user's skill level. Beginners get simplified chord progressions; advanced players get the full arrangement. The technology exists to analyze audio and identify notes—the opportunity is in making it accessible and personalized.
+**Solution** — An AI app that listens to any song and generates tabs calibrated to your skill level.
 
 ---
 
 ## 2. Smarter Study Breaks
 
-**The Problem**
-Productivity advice tells us to take regular breaks, but the optimal timing varies dramatically based on what we're doing and how we're doing it. Sometimes I'm in deep flow and a break would be disruptive; other times I've been staring at the same problem for an hour without realizing I need to step away.
+Productivity advice says take regular breaks, but optimal timing varies. Sometimes I'm in flow; other times I've been stuck for an hour without realizing it.
 
-**Why This Matters to Me**
-As a student balancing coursework, projects, and personal development, I need to maximize the effectiveness of my study time. Generic "take a break every 25 minutes" rules don't account for the reality of how learning actually works.
+**Why it matters** — Generic "break every 25 minutes" rules don't account for how learning actually works.
 
-**A Solution Worth Building**
-An app that monitors engagement signals—typing patterns, time spent on problems, application switching—to intelligently suggest breaks when you actually need them. When you're locked in, it silences notifications and protects your focus. When you're struggling, it recognizes the signs and prompts you to reset.
+**Solution** — An app that monitors engagement signals and suggests breaks when you actually need them.
 
 ---
 
 ## 3. Never Forgetting Gift Ideas
 
-**The Problem**
-Throughout the year, I notice things that would make perfect gifts for people I care about. "John would love that." "Mom mentioned wanting one of these." But when birthdays and holidays arrive, those insights are gone, and I'm left scrambling for generic last-minute ideas.
+Throughout the year I notice perfect gifts for people. By birthdays and holidays, those insights are gone.
 
-**Why This Matters to Me**
-Gift-giving is about showing people you pay attention to who they are and what they care about. The information exists—I just don't have a reliable way to capture and retrieve it when it matters.
+**Why it matters** — Gift-giving is about showing you pay attention. The information exists—I just can't retrieve it when needed.
 
-**A Solution Worth Building**
-A simple app where I can quickly log gift ideas as they occur to me. "John likes Xbox" becomes a curated list of specific gift recommendations with links, organized by person and occasion. When December rolls around, I have a personalized shopping list built from a year of observations.
+**Solution** — A simple app to log gift ideas as they occur. "John likes Xbox" becomes a curated list with links.
 
 ---
 
 ## 4. Unified Rewards Tracking
 
-**The Problem**
-I have accounts with at least ten different fast-food and restaurant apps, each with their own points systems, expiration policies, and promotional offers. Points expire before I use them. Deals come and go without my knowledge. The mental overhead of tracking it all means I often just pay full price anyway.
+Ten different restaurant apps, each with their own points systems and expiration policies. Points expire. Deals come and go. The mental overhead means I often just pay full price.
 
-**Why This Matters to Me**
-As a college student, every dollar matters. These loyalty programs exist to save me money, but the fragmentation across apps makes them more burden than benefit.
+**Why it matters** — As a student, every dollar matters. These programs should save money, not add burden.
 
-**A Solution Worth Building**
-A unified dashboard that aggregates all my restaurant loyalty accounts, tracks point balances and expiration dates, and alerts me to optimal redemption opportunities. "You have enough points for a free burrito at Chipotle, and they expire in 3 days" is actionable. Checking ten different apps is not.
+**Solution** — A unified dashboard tracking all loyalty accounts with expiration alerts and optimal redemption suggestions.
 
 ---
 
 ## 5. AI-Powered Outfit Planning
 
-**The Problem**
-I wake up, check my calendar, realize I have an important meeting, and then spend precious morning minutes figuring out what to wear. Or worse, I grab something that doesn't match the weather or the occasion and realize it too late.
+Wake up, check calendar, realize I have an important meeting, spend precious minutes figuring out what to wear.
 
-**Why This Matters to Me**
-First impressions matter, and clothing is part of how we present ourselves professionally. But outfit planning is a daily friction point that consumes mental energy better spent elsewhere.
+**Why it matters** — First impressions matter. Outfit planning consumes mental energy better spent elsewhere.
 
-**A Solution Worth Building**
-An app where I photograph my closet once, and then each morning it suggests an outfit based on my calendar events and the day's weather forecast. An interview day gets professional recommendations; a casual Saturday gets comfortable options. The AI learns my preferences over time and makes getting dressed one less thing to think about.
+**Solution** — Photograph your closet once. Each morning get outfit suggestions based on calendar events and weather.
 
 ---
 
-## Let's Connect
+## Connect
 
-If any of these problems resonate with you, or if you're working on solutions in these spaces, I'd love to hear from you.
+If any of these resonate or you're working on solutions in these spaces, reach out.
 
-[<i class="fab fa-linkedin"></i> Connect on LinkedIn](https://www.linkedin.com/in/mason-paul06){.social-btn target="_blank"}
-[<i class="fab fa-github"></i> View my GitHub](https://github.com/mbp026){.social-btn target="_blank"}
+[LinkedIn](https://www.linkedin.com/in/mason-paul06){.social-btn target="_blank"} · [GitHub](https://github.com/mbp026){.social-btn target="_blank"}

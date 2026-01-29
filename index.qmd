@@ -10,40 +10,54 @@ page-layout: full
 
 # Mason Paul
 
-### Strategic Management Student | Aspiring Consultant & Entrepreneur
+### Strategic Management | Consulting | Entrepreneurship
 
 ::: {.social-links}
-[<i class="fab fa-linkedin"></i> LinkedIn](https://www.linkedin.com/in/mason-paul06){.social-btn target="_blank"}
-[<i class="fab fa-github"></i> GitHub](https://github.com/mbp026){.social-btn target="_blank"}
+[LinkedIn](https://www.linkedin.com/in/mason-paul06){.social-btn target="_blank"}
+[GitHub](https://github.com/mbp026){.social-btn target="_blank"}
 :::
 
 :::
 :::
 
 ::: {.section}
-## About Me
+
+## About
 
 I'm a Strategic Management student at BYU's Marriott School of Business with a passion for solving real problems through technology and strategy. My experience spans sales leadership, startup consulting, and building AI-powered applications.
 
-I'm currently exploring opportunities in consulting with the goal of eventually joining or starting a venture-backed company.
+Currently exploring opportunities in consulting with the goal of eventually joining or starting a venture-backed company.
+
 :::
 
-::: {.section .projects-section}
+::: {.projects-section}
+
+::: {.section}
+
 ## Featured Projects
 
 ::: {.project-grid}
+
 ::: {.project-card}
+
 ### Econ Textbook Reader
 
 An AI-powered application that helps students read and understand economics textbooks more effectively.
 
-[View Project <i class="fas fa-arrow-right"></i>](projects/project-1.qmd){.project-link}
+[View Project →](projects/project-1.qmd){.project-link}
+
 :::
+
 :::
+
+:::
+
 :::
 
 ::: {.section}
-## What I'm Working On
 
-I'm constantly thinking about problems worth solving. Check out my [Problems I'm Exploring](problems.qmd) page to see the challenges I'm investigating and the solutions I'm developing.
+## Currently Exploring
+
+I'm constantly thinking about problems worth solving. View my [Problems I'm Exploring](problems.qmd) to see the challenges I'm investigating.
+
 :::

@@ -4,16 +4,12 @@ title: "About"
 
 ::: {.hero-banner}
 
-<img src="images/profile.png" alt="Mason Paul" class="rounded-circle mb-3">
+<img src="images/profile.png" alt="Mason Paul">
 
 # Mason Paul
 
-<a href="https://www.linkedin.com/in/mason-paul06" class="btn" target="_blank">
-  <i class="fab fa-linkedin"></i> LinkedIn
-</a>
-<a href="https://github.com/mbp026" class="btn" target="_blank">
-  <i class="fab fa-github"></i> GitHub
-</a>
+<a href="https://www.linkedin.com/in/mason-paul06" class="btn" target="_blank">LinkedIn</a>
+<a href="https://github.com/mbp026" class="btn" target="_blank">GitHub</a>
 
 :::
 
@@ -21,75 +17,54 @@ title: "About"
 
 I'm a Strategic Management student at BYU with a minor in Philosophy. My journey has taken me from building fences on a Utah ranch to leading intern teams at tech startups. Along the way, I've developed a passion for solving problems at the intersection of strategy, technology, and human behavior.
 
-I'm fluent in Spanish after spending two years as a volunteer representative in Houston, Texas, where I learned to connect with people from diverse backgrounds and communicate complex ideas simply.
+Fluent in Spanish after spending two years as a volunteer representative in Houston, Texas.
 
 ## Education
 
 **Brigham Young University** — Marriott School of Business
 *Jul 2022 - Jul 2028*
 
-- **Major**: Pre-Business (prospectively Strategic Management)
-- **Minor**: Philosophy
-- **Relevant Coursework**: Economics, Finance, Accounting, Information Systems, Strategic Management (emphasis on product creation using AI)
+- Major: Pre-Business (prospectively Strategic Management)
+- Minor: Philosophy
+- Relevant Coursework: Economics, Finance, Accounting, Information Systems, Strategic Management
 
 ## Experience
 
 #### Intern — Trackara
-*Sep 2025 - Dec 2025 | Provo, Utah*
+*Sep 2025 - Dec 2025 · Provo, Utah*
 
-- Selected to lead a team of 4 interns with a focus on improving company strategy
-- Modernized the company's social media presence on LinkedIn, Facebook, and YouTube
-- Tripled total client base through targeted outreach and lead research/creation
-- Strengthened company's strategic advantage by conducting in-depth competitor analysis and market positioning
+- Led team of 4 interns focused on improving company strategy
+- Tripled client base through targeted outreach and lead research
+- Conducted competitor analysis and market positioning
 
-#### Fiber-Optic Internet Sales Representative — Lumina Sun Smart Home
-*Jul 2025 - Sep 2025 | Charlotte, NC*
+#### Sales Representative — Lumina Sun Smart Home
+*Jul 2025 - Sep 2025 · Charlotte, NC*
 
-- Ranked as team's top sales representative, performing 60% higher than company average
-- Delivered tailored product pitches and handled objections in a fast-paced environment
-- Collaborated with onboarding and tech support teams to ensure smooth customer installations
+- Top sales representative, 60% above company average
+- Delivered tailored pitches in fast-paced environment
 
 #### Volunteer Representative — Church of Jesus Christ of Latter-Day Saints
-*Jun 2023 - May 2025 | Houston, Texas*
+*Jun 2023 - May 2025 · Houston, Texas*
 
-- Led and organized mission-wide trainings under direction of mission leadership
-- Developed strong interpersonal and public communication skills
-- Gained fluency in Spanish through immersive daily use and formal instruction
+- Led mission-wide trainings
+- Gained Spanish fluency through immersive daily use
 
-#### Baker — Crumbl Cookies
-*Jul 2021 - Nov 2021 | St. Louis, MO*
+#### Earlier Roles
 
-- Collaborated in a high-volume production environment to preserve quality control and ensure timely order fulfillment
-
-#### Soccer Field Marshal — St. Louis Scott Gallagher FC
-*Apr 2021 - Jul 2021 | St. Louis, MO*
-
-- Managed field operations during competitive youth soccer events
-- Addressed conflicts and ensured adherence to club and league policies
-
-#### Ranch Hand — Bunker Engineering
-*Jun 2020 - Aug 2020 | Monticello, Utah*
-
-- Constructed and maintained miles of livestock fencing and corrals
-- Gained practical skills in construction, equipment operation, and independent problem-solving
+Baker at Crumbl Cookies · Field Marshal at St. Louis Scott Gallagher FC · Ranch Hand at Bunker Engineering
 
 ## Skills
 
-**Languages**
-Fluent in Spanish
+**Languages** — Fluent in Spanish
 
-**Sales & Communication**
-Consultative selling, customer service, conflict resolution, public speaking
+**Technical** — AI models (Claude, ChatGPT, Gemini), VS Code, CRM tools
 
-**Technical**
-AI models (Claude, ChatGPT, Gemini), Microsoft Office Suite, VS Code, Google Workspace, CRM tools
+**Communication** — Consultative selling, public speaking, conflict resolution
 
 ## Interests
 
-Mountain biking, snowboarding, backpacking, reading, soccer, spikeball, guitar, and pickleball
+Mountain biking, snowboarding, backpacking, reading, soccer, guitar, pickleball
 
 ## What's Next
 
-I'm pursuing opportunities in consulting, particularly in win-loss analysis and strategic advisory. My long-term goal is to join or start a venture-backed company where I can combine my strategic thinking with my passion for building products that solve real problems.
-
-I'm especially interested in roles where I can work at the intersection of strategy and technology, helping companies understand their competitive landscape and make better decisions.
+Pursuing opportunities in consulting, particularly win-loss analysis and strategic advisory. Long-term goal: join or start a venture-backed company at the intersection of strategy and technology.
